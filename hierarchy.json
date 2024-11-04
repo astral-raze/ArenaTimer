@@ -1,4 +1,21 @@
 {
     "update" : 1.3,
-    "news" : "Были добавлены оповещения об обновлениях."
+    "rukvo" : [
+        {
+            "nick": "Ali_Tusamov",
+            "post": "Владелец | 8 LVL FD 4"
+        },
+        {
+            "nick": "Grisha_Isaev",
+            "post": "Владелец | 8 LVL FD 4"
+        },
+        {
+            "nick": "Hentay_Bavles",
+            "post": "Владелец | 8 LVL FD 4"
+        },
+        {
+            "nick": "James_Watson",
+            "post": "Управляющий | 8 LVL FD 4"
+        }
+    ]
 }
