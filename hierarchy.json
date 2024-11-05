@@ -1,192 +1,20 @@
 {
     "update" : 1.3,
-    "Ali_Tusamov" : [
+    "guide": [
         {
             "nick": "Ali_Tusamov",
-            "post": "Владелец | 8 LVL FD 4",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Grisha_Isaev": [
+            "post": "Владелец #1",
+            "alvl": "8 LVL FD4"
+        },
         {
             "nick": "Grisha_Isaev",
-            "post": "Владелец | 8 LVL FD 4",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Hentay_Bavles": [
+            "post": "Владелец #2",
+            "alvl": "8 LVL FD4"
+        },
         {
             "nick": "Hentay_Bavles",
-            "post": "Владелец | 8 LVL FD 4",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "No_zamowner": [
-        {
-            "nick": "No_Name",
-            "post": "Зам.Владельца | 8 LVL FD 4",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "No_Ypr": [
-        {
-            "nick": "No_Name",
-            "post": "Управляющий | 8 LVL FD 4",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "No_zamypr": [
-        {
-            "nick": "No_Name",
-            "post": "Зам.Упр | 8 LVL FD 4(3)",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Fernando_Holland": [
-        {
-            "nick": "Fernando_Holland",
-            "post": "Основатель | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "You_Tube": [
-        {
-            "nick": "You_Tube",
-            "post": "Зам.Основателя | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Black_Kalashnikov": [
-        {
-            "nick": "Black_Kalashnikov",
-            "post": "Руководитель | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Kir_Overdozex": [
-        {
-            "nick": "Kir_Overdozex",
-            "post": "Зам.Руководителя | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Meo_Shults": [
-        {
-            "nick": "Meo_Shults",
-            "post": "Зам.Руководителя | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Danil_Wallet": [
-        {
-            "nick": "Danil_Wallet",
-            "post": "Гл.Администратор | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Simba_Mercury": [
-        {
-            "nick": "Simba_Mercury",
-            "post": "Зам.Гл.Администратора | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Findi_Tusamov": [
-        {
-            "nick": "Findi_Tusamov",
-            "post": "Зам.Гл.Администратора | 8 LVL FD 3",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Sam_Mason": [
-        {
-            "nick": "Sam_Mason",
-            "post": "Куратор.Адм | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Legenda_Enchantic": [
-        {
-            "nick": "Legenda_Enchantic",
-            "post": "Куратор.Гос | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Sancho_Pancho": [
-        {
-            "nick": "Sancho_Pancho",
-            "post": "Куратор.Нел | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Vadim_Chicardo": [
-        {
-            "nick": "Vadim_Chicardo",
-            "post": "Куратор.Опр | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Timur_Kondarob": [
-        {
-            "nick": "Timur_Kondarob",
-            "post": "Куратор.Медиа | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "Yamato_Isaev": [
-        {
-            "nick": "Yamato_Isaev",
-            "post": "Пиар-Менеджер | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
-        }
-    ],
-    "No_zampiar": [
-        {
-            "nick": "No_Name",
-            "post": "Зам.Пиар-Менеджера | 8 LVL FD 2",
-            "raising": "04.11.2024",
-            "warn": "0",
-            "praise": "0"
+            "post": "Владелец #3",
+            "alvl": "8 LVL FD4"
         }
     ]
 }
