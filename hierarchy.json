@@ -1,20 +1,110 @@
 {
     "update" : 1.3,
-    "guide": [
+    "players": [
         {
             "nick": "Ali_Tusamov",
             "post": "Владелец #1",
-            "alvl": "8 LVL FD4"
+            "alvl": "FD4"
         },
         {
             "nick": "Grisha_Isaev",
             "post": "Владелец #2",
-            "alvl": "8 LVL FD4"
+            "alvl": "FD4"
         },
         {
             "nick": "Hentay_Bavles",
             "post": "Владелец #3",
-            "alvl": "8 LVL FD4"
+            "alvl": "FD4"
+        },
+        {
+            "nick": "Свободно",
+            "post": "Зам.Владельца",
+            "alvl": "FD4"
+        },
+        {
+            "nick": "Свободно",
+            "post": "Управляющий"
+            "alvl": "FD4"
+        },
+                {
+            "nick": "Свободно",
+            "post": "Зам.Управляющего"
+            "alvl": "FD4(3)"
+        },
+        {
+            "nick": "Fernando_Holland",
+            "post": "Основатель"
+            "alvl": "FD3"
+        },
+        {
+            "nick": "You_Tube",
+            "post": "Зам.Основателя"
+            "alvl": "FD3"
+        },
+        {
+            "nick": "Black_Kalashnikov",
+            "post": "Руководитель",
+            "alvl": "FD3"
+        },
+        {
+            "nick": "Kir_Overdozex",
+            "post": "Зам.Руководителя",
+            "alvl": "FD3"
+        },
+        {
+            "nick": "Meo_Shults",
+            "post": "Зам.Руководителя",
+            "alvl": "FD3"
+        }
+        {
+            "nick": "Danil_Wallet",
+            "post": "Гл.Администратор",
+            "alvl": "FD3"
+        }
+        {
+            "nick": "Simba_Mercury",
+            "post": "Зам.Гл.Администратора"
+            "alvl": "FD3"
+        },
+        {
+            "nick": "Findi_Tusamov",
+            "post": "Зам.Гл.Администратора"
+            "alvl": "FD3"
+        },
+        {
+            "nick": "Sam_Mason",
+            "post": "Куратор.Адм",
+            "alvl": "FD2"
+        },
+        {
+            "nick": "Legenda_Enchantic",
+            "post": "Куратор.Гос",
+            "alvl": "FD2"
+        }
+        {
+            "nick": "Sancho_Pancho",
+            "post": "Куратор.Нел"
+            "alvl": "FD2"
+        },
+        {
+            "nick": "Vadim_Chicardo",
+            "post": "Куратор.Опр",
+            "alvl": "FD2"
+        },
+        {
+            "nick": "Timur_Kondarob",
+            "post": "Куратор.Медиа",
+            "alvl": "FD2"
+        },
+        {
+            "nick": "Yamato_Isaev",
+            "post": "Пиар-Менеджер",
+            "alvl": "FD2"
+        },
+        {
+            "nick": "Свободно",
+            "post": "Зам.Пиар-Менеджера",
+            "alvl": "FD2"
         }
     ]
 }
