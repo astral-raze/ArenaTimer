@@ -38,25 +38,25 @@
             "warn": "0/3"
         },
         {
-            "nick": "Fernando_Holland",
+            "nick": "Carl_Galager + Тех",
             "post": "Основатель",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "You_Tube",
+            "nick": "You_Tube + Тех",
             "post": "Зам.Основателя",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "Black_Kalashnikov",
+            "nick": "Black_Kalashnikov + ГТ + АФ",
             "post": "Руководитель",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "Kir_Overdozex",
+            "nick": "Kir_Overdozex + Тех",
             "post": "Зам.Руководителя",
             "alvl": "FD3",
             "warn": "0/3"
@@ -64,6 +64,12 @@
         {
             "nick": "Meo_Shults",
             "post": "Зам.Руководителя",
+            "alvl": "FD3",
+            "warn": "0/3"
+        },
+        {
+            "nick": "Makoto_Misumi + ЗГТ",
+            "post": "Спец.Админ",
             "alvl": "FD3",
             "warn": "0/3"
         },
@@ -116,7 +122,7 @@
             "warn": "0/3"
         },
         {
-            "nick": "Yamato_Isaev",
+            "nick": "Yamato_Isaev + Тех",
             "post": "Пиар-Менеджер",
             "alvl": "FD2",
             "warn": "0/3"
@@ -125,6 +131,24 @@
             "nick": "Free",
             "post": "Зам.Пиар-Менеджера",
             "alvl": "FD2",
+            "warn": "0/3"
+        },
+        {
+            "nick": "Astral_Raze",
+            "post": "Гл.Адм.Форума",
+            "alvl": "FD1",
+            "warn": "0/3"
+        },
+        {
+            "nick": "Baby_Baby",
+            "post": "Full Dostup #1",
+            "alvl": "FD1",
+            "warn": "0/3"
+        },
+        {
+            "nick": "Swat_Man",
+            "post": "Full Dostup #1",
+            "alvl": "FD1",
             "warn": "0/3"
         }
     ]
