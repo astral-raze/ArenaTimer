@@ -38,26 +38,26 @@
             "warn": "0/3"
         },
         {
-            "nick": "Carl_Galager + Тех",
-            "post": "Основатель",
+            "nick": "Carl_Galager",
+            "post": "Основатель + Тех",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "You_Tube + Тех",
-            "post": "Зам.Основателя",
+            "nick": "You_Tube",
+            "post": "Зам.Основателя + Тех",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "Black_Kalashnikov + ГТ + АФ",
-            "post": "Руководитель",
+            "nick": "Black_Kalashnikov",
+            "post": "Руководитель + ГТ + АФ",
             "alvl": "FD3",
             "warn": "0/3"
         },
         {
-            "nick": "Kir_Overdozex + Тех",
-            "post": "Зам.Руководителя",
+            "nick": "Kir_Overdozex",
+            "post": "Зам.Руководителя + Тех",
             "alvl": "FD3",
             "warn": "0/3"
         },
@@ -68,8 +68,8 @@
             "warn": "0/3"
         },
         {
-            "nick": "Makoto_Misumi + ЗГТ",
-            "post": "Спец.Админ",
+            "nick": "Makoto_Misumi",
+            "post": "Спец.Админ + ЗГТ",
             "alvl": "FD3",
             "warn": "0/3"
         },
@@ -122,8 +122,8 @@
             "warn": "0/3"
         },
         {
-            "nick": "Yamato_Isaev + Тех",
-            "post": "Пиар-Менеджер",
+            "nick": "Yamato_Isaev",
+            "post": "Пиар-Менеджер + Тех",
             "alvl": "FD2",
             "warn": "0/3"
         },
